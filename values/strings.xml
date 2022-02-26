@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="travel">Adalah Travel dengan system door to door yang keberangkatanya dari kuningan jogja atau sebaliknya, penjemputan-nya dimulai jam 6 pagi atau malem</string>
+    <array name="jenis_kelamin">
+        Laki Laki
+        Perempuan
+    </array>
+    <string name="shuttle">Toyota Hiace = mobil ini punya dimensi panjang sekitar 5.380 m dengan lebar 1.800 mm. Dari dimensi tersebut bisa dipastikan bahwa rung dalam Toyota Hiace begitu lega.
+Mempunyai kapasitas 16 kursi, otomatis membuat keperluan traveling atau usaha penyewaan mobil travel akan cukup lengkap. Untuk urusan spesifikasi, mobil ini sudah disertai adanya mesin berkapasitas 2755 cc.</string>
+    <string name="apv">Suzuki APV = mobil ini mampu menampung hingga 8 orang sekaligus.
+Meski tidak sebanyak mobil Toyota Hiace. Tak hanya faktor mesin berkualitas, desain APV juga cukup keren.</string>
+    <string name="luxio">Daihatsu Luxio = Daihatsu Luxio terbaru punya mesin tipe 3SZ-VE DOHC VVT-i, berpendingin air yang mampu mengeluarkan power 97 PS. Dengan mesin tersebut tenaga dikeluarkan pun sangat cocok dipakai untuk urusan mobil travel.
+    Daihatsu Luxio juga punya kapasitas tempat duduk 8 penumpang.</string>
+    <string-array name="kategori_mobil">
+        <item>Hiace</item>
+        <item>APV</item>
+        <item>Luxio</item>
+    </string-array>
+    <string-array name="harga_perorang">
+        <item>200000</item>
+        <item>170000</item>
+        <item>170000</item>
+    </string-array>
+</resources>
